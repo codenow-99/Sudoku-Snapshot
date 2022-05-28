@@ -28,6 +28,7 @@ How to use:
     git clone https://github.com/code-utk/Sudoku-Snapshot.git
     cd Sudoku-Snapshot
     python sudoku.py <path-to-input-image>
+    (python2.7 sudoku.py ./images/sudokutest.jpg)
     
 Working:
 -------
